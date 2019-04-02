@@ -9,7 +9,7 @@
     "dependencies": {
       "fs-plus": "2.3.1",
       "highlight.js": "8.3.0",
-      "js-yaml": "3.2.2",
+      "js-yaml": "3.13.0",
       "moment": "2.8.3",
       "season": "2.0.0",
       "semver": "4.1.0",
